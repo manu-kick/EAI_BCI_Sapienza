@@ -1,0 +1,5 @@
+enable_wandb: true
+encoder: null
+input_dim: 70
+loss: null
+run_name: from_scratch_features_dataset
